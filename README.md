@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-- 🔭 I’m currently working on [cudenia](www.cudenia.com)
+- 🔭 I’m currently working on www.cudenia.com
 
 - 🌱 I’m currently learning **Vue.js | .Net**
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
