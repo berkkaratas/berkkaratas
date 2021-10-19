@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 - 🔭 I’m currently working on www.cudenia.com
 
-- 🌱 I’m currently learning **Vue.js | .Net**
+- 🌱 I’m currently using **Vue.js | .Net**
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
