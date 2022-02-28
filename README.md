@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-- 🔭 I’m currently working on www.cudenia.com
+- 🔭 I’m currently working on [cudenia.com](www.cudenia.com)
 
 - 🌱 I’m currently using **Vue.js | .Net**
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
-- 🌟 My profile page berkkaratas.github.io/
+- 🌟 My profile page [berkkaratas.github.io](https://berkkaratas.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-berkkaratas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkkaratas/)](https://www.linkedin.com/in/berkkaratas/)
 [![Instagram Badge](https://img.shields.io/badge/-berkkaratas95-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkkaratas95/)](https://instagram.com/berkkaratas95)
