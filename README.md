@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-- 🔭 I’m currently working on [cudenia.com](https://cudenia.com/)
+- 🔭 I’m currently working on cudenia.com
 
 - 🌱 I’m currently using **Vue.js | .Net**
 
