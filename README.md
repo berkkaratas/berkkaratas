@@ -4,28 +4,15 @@
 - 🌱 I’m currently using **Vue.js | .Net**
 
 - 📫 How to reach me **berk-karatas@pm.me**
-<!--
-### Blogs posts
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_berkkaratas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_berkkaratas_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berkkaratas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkkaratas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16209247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16209247" height="30" width="40" /></a>
-<a href="https://instagram.com/berkkaratas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkkaratas95" height="30" width="40" /></a>
-<a href="https://medium.com/@berk-karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berk-karatas" height="30" width="40" /></a>
-</p>
--->
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-berkkaratas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkkaratas/)](https://www.linkedin.com/in/berkkaratas/)
+[![Instagram Badge](https://img.shields.io/badge/-berkkaratas95-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkkaratas95/)](https://instagram.com/kanna6501)
+[![Twitter Badge](https://img.shields.io/badge/-berkkaratas95-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/berkkaratas95/)](https://twitter.com/berkkaratas95)
 
 ## ⚡ Technologies
 
+![DotNet](https://img.shields.io/badge/-DotNet-black?style=flat-square&logo=dotnet)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
