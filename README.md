@@ -11,6 +11,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-berkkaratas95-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkkaratas95/)](https://instagram.com/berkkaratas95)
 [![Twitter Badge](https://img.shields.io/badge/-berkkaratas95-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/berkkaratas95/)](https://twitter.com/berkkaratas95)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fberkkaratas&countColor=%23263759)
+
 ## ⚡ Technologies
 
 ![DotNet](https://img.shields.io/badge/-DotNet-black?style=flat-square&logo=dotnet)
