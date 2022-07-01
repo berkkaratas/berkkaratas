@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-- 🔭 I’m currently working on cudenia.com
+<h3 align="center">Software Developer | Student at Fethiye Municipality Science High School</h3>
 
-- 🌱 I’m currently using **Vue.js | .Net**
+- 🔭 I’m currently working on **Circular Economy with Web3**
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [berkkaratas.bio.link](berkkaratas.bio.link)
+
+- 📝 I regularly write articles on [berkkaratas.github.io](berkkaratas.github.io)
+
+- 💬 Ask me about **Flutter, Python, Solidity**
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
-- 🌟 My profile page [berkkaratas.github.io](https://berkkaratas.github.io/)
+- 📄 Know about my experiences [berkkaratas.bio.link](berkkaratas.bio.link)
 
-[![Linkedin Badge](https://img.shields.io/badge/-berkkaratas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkkaratas/)](https://www.linkedin.com/in/berkkaratas/)
-[![Instagram Badge](https://img.shields.io/badge/-berkkaratas95-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/berkkaratas95/)](https://instagram.com/berkkaratas95)
-[![Twitter Badge](https://img.shields.io/badge/-berkkaratas95-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/berkkaratas95/)](https://twitter.com/berkkaratas95)
+- ⚡ Fun fact **I am FM lover.**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fberkkaratas&countColor=%23263759)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/berkkaratas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="berkkaratas" height="30" width="40" /></a>
+<a href="https://twitter.com/berkkaratas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkkaratas95" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/berkkaratas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkkaratas" height="30" width="40" /></a>
+<a href="https://instagram.com/berkkaratas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkkaratas95" height="30" width="40" /></a>
+</p>
 
-## ⚡ Technologies
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![DotNet](https://img.shields.io/badge/-DotNet-black?style=flat-square&logo=dotnet)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/berkkaratas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkkaratas" /></a></p><br><br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=berkkaratas&count_private=true&show_icons=true&include_all_commits=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkkaratas&show_icons=true&locale=en&layout=compact" alt="berkkaratas" /></p>
 
-this file will be updated
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkkaratas&show_icons=true&locale=en" alt="berkkaratas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkkaratas&" alt="berkkaratas" /></p>
