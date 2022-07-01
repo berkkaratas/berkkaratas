@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [berkkaratas.bio.link](berkkaratas.bio.link)
+- 👨‍💻 All of my projects are available at [berkkaratas.bio.link](https://berkkaratas.bio.link)
 
-- 📝 I regularly write articles on [berkkaratas.github.io](berkkaratas.github.io)
+- 📝 I regularly write articles on [berkkaratas.github.io](https://berkkaratas.github.io)
 
 - 💬 Ask me about **Flutter, Python, Solidity**
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
-- 📄 Know about my experiences [berkkaratas.bio.link](berkkaratas.bio.link)
+- 📄 Know about my experiences [berkkaratas.bio.link](https://berkkaratas.bio.link)
 
 - ⚡ Fun fact **I am FM lover.**
 
