@@ -3,19 +3,14 @@
 
 - 🔭 I’m currently working on **Circular Economy with Web3**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [berkkaratas.bio.link](https://berkkaratas.bio.link)
 
-- 📝 I regularly write articles on [berkkaratas.github.io](https://berkkaratas.github.io)
+- 📝 I regularly write articles on [berkkaratas.github.io](https://berkkaratas.github.io) soon
 
-- 💬 Ask me about **Flutter, Python, Solidity**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **berk-karatas@pm.me**
 
-- 📄 Know about my experiences [berkkaratas.bio.link](https://berkkaratas.bio.link)
-
-- ⚡ Fun fact **I am FM lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
